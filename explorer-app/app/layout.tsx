@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Events Explorer",
-    template: "%s | Events Explorer",
+    default: "Eventure",
+    template: "%s | Eventure",
   },
   description: "Browse and discover tech events. Filter by location.",
   metadataBase: new URL("https://example.com"),
   openGraph: {
-    title: "Events Explorer",
+    title: "Eventure",
     description: "Browse and discover tech events. Filter by location.",
     type: "website",
   },
