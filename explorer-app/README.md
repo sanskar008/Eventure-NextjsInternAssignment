@@ -1,4 +1,6 @@
-## Eventure - Mini Events Explorer(Next.js + TypeScript)
+## Eventure - Mini Events Explorer (Next.js + TypeScript)
+
+**Live Demo:** This project is deployed on Vercel and can be accessed at: [eventure.sanskarkoserwal.online](https://eventure.sanskarkoserwal.online)
 
 A **modern, elegant, and responsive** events listing application showcasing advanced Next.js 15 features, stunning UI design, and optimal user experience. Built specifically to demonstrate professional-grade React development skills.
 
@@ -170,6 +172,6 @@ explorer-app/
 
 ---
 
-**Built with ❤️ for demonstration of professional Next.js development skills**
+**For demonstration of professional Next.js development skills**
 
 _This project showcases modern React development practices, beautiful UI design, and production-ready code quality as required for internship evaluation._
