@@ -38,7 +38,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
                 <span className="text-white font-bold text-sm">E</span>
               </div>
               <p className="text-sm font-medium text-foreground/70">
-                &copy; {new Date().getFullYear()} Eventure
+                &copy; {new Date().getFullYear()} Eventure - Sanskar Koserwal
               </p>
             </div>
             <div className="flex items-center gap-6">
